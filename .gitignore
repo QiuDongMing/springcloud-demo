@@ -2,6 +2,6 @@
 *.iml
 out
 gen
-targer/
+targer
 test/
 
