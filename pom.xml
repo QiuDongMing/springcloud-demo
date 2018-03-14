@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.qdm</groupId>
+    <artifactId>sprng-cloud-parent1</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>spring-eurekaserver</module>
+        <module>spring-service-ribbon</module>
+        <module>spring-eurekaclient2</module>
+        <module>spring-serice-feign</module>
+        <module>spring-service-zuul</module>
+        <module>spring-config-server</module>
+        <module>spring-config-client</module>
+        <module>spring-eureka-server</module>
+    </modules>
+
+
+
+</project>
