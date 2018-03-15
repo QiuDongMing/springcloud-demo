@@ -17,6 +17,7 @@
         <module>spring-config-server</module>
         <module>spring-config-client</module>
         <module>spring-eureka-server</module>
+
     </modules>
 
 
